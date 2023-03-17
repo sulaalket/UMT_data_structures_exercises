@@ -1,1 +1,1 @@
-# UMT_data_structures_exercises
+# UMT_data_structures
